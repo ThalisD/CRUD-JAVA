@@ -6,18 +6,18 @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
 @@   ❮\/__-__\/❯ Programação de soluções computacionais@@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮(|~o.o~|)❯                                       @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | CRUD JAVA                  |     @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
+@@     |_.^._|   Equipe:                               @@
+@@     | |"| | - Gabriel Franceschini RA:1352220626    @@
+@@     ( ) ( ) - Thalis Denis RA:1352220703            @@
+@@     |_| |_| - Yuri Alves RA:1352221879              @@
+@@ _.-' _j L_ '- Vinicius Herbaly RA:13523110501       @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
