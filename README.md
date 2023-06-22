@@ -6,7 +6,7 @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
 @@   ❮\/__-__\/❯ Programação de soluções computacionais@@
-@@   ❮(|~o.o~|)❯                                       @@
+@@   ❮(|~o.o~|)❯ Professores: Eduardo e Gilson         @@
 @@   ❮/ \`-'/ \❯                                       @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
